@@ -99,7 +99,7 @@ textarea {
 
 
 body {
-    background:#333;
+    background:#333 url("../img/stardust_@2X.png");
     color:#999;
     font-family:monospace;
     padding:2em 0;
