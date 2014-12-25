@@ -142,7 +142,6 @@ p {
     animation: mymove 3s;
     position:absolute;
     left:0;
-    top:-7px;
     width:100%;
     
 }
